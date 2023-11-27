@@ -5,7 +5,7 @@
 # begin properties
 properties() { '
 kernel.string=Mimir Kernel
-kernel.for=QTI
+kernel.for=QTI+KSU
 kernel.compiler=AOSP Clang 17.0.3
 kernel.made=Vhmit
 kernel.version=4.4.302
